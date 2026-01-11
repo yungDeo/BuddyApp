@@ -9,16 +9,16 @@
   "dependencies": {
     "eslint-plugin-react-native": "^3.2.1",
     "react": "16.3.1",
-    "react-native": "0.55.4",
-    "react-native-elements": "^0.19.1",
+    "react-native": "0.81.0",
+    "react-native-elements": "^3.4.3",
     "react-native-pagination": "^1.2.8",
     "react-native-vector-icons": "^4.6.0",
     "react-navigation": "^2.3.1"
   },
   "devDependencies": {
-    "babel-jest": "23.0.1",
+    "babel-jest": "30.0.5",
     "babel-preset-react-native": "4.0.0",
-    "jest": "23.1.0",
+    "jest": "30.0.5",
     "react-test-renderer": "16.3.1"
   },
   "jest": {
